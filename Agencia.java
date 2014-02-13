@@ -8,7 +8,7 @@ import cliente.*;
 
 public class Agencia {
 
-	//sempre que uma agencia for criada ela recebera um codigo referente a esta variavel
+	//sempre que uma agencia for criada ela recebera um codigo referente a esta variave
 	private static int AgenciasCriadas = 0;
 	
 	//sempre q uma conta for criada na agencia ela recebera um codigo referente a esta variavel
